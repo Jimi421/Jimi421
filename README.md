@@ -1,40 +1,64 @@
-I'm a cybersecurity student focused on Offensive Security, Red Team Operations, and continuous self-growth through disciplined practice and purposeful learning.
+# 👋 Hi, I'm Braxton Bailey (Jimi421)
 
-👀 I’m interested in:
-Cybersecurity, penetration testing, ethical hacking, network defense, and building security automation tools.
-(Also passionate about learning how systems can break — and how they can be made stronger.)
+🎯 I'm passionate about **cybersecurity**, **penetration testing**, **ethical hacking**, and **web development**.  
+🔍 I love exploring how systems break — and how they can be made stronger (and more beautiful).
 
-🌱 I’m currently learning:
-TCP/IP networking, Python scripting for security tasks, penetration testing fundamentals, and preparing for CTF challenges.
-(Growth through consistent, purposeful study.)
+---
 
-💞️ I’m looking to collaborate on:
-Security research projects, beginner-friendly hacking tools, CTF challenges, and open-source cybersecurity initiatives.
-(I believe learning together accelerates mastery.)
+## 🛠️ What I'm Working On
 
-📫 How to reach me:
-Jimi421@gmail.com
+- 🧠 Leveling up in **TCP/IP networking**, **Python scripting**, and **security tool development**
+- 🛡️ Hands-on learning via **CTF challenges**, **labs**, and personal **red team projects**
+- 💻 Building full-stack projects with **Next.js**, **Tailwind CSS**, and modern frameworks
+- 🧰 Creating a growing collection of open-source **infosec** and **frontend** tools
 
-⚡ Fun fact:
-Besides cybersecurity, I’m deeply passionate about art and music — two fields that, like cybersecurity, require creativity, discipline, and continuous exploration.
+---
 
-🛠️ Skills
-Python scripting (actively improving)
-TCP/IP Networking (actively improving)
-Penetration Testing Fundamentals
-Linux Command Line Operations
-Cybersecurity Research and Lab Work
+## 💡 Interests & Goals
 
-📚 Current Goals
-Build a library of cybersecurity mini-projects
-Master both basic and advanced networking concepts
-Participate in CTF challenges and practical labs
-Achieve my first cybersecurity certification
-Land a junior Penetration Tester or SOC Analyst role
-🎯 My Approach
-Curiosity: Exploring the unknown drives my learning journey.
-Consistency: Small improvements every day lead to mastery.
-Challenge-Seeking: I view obstacles as opportunities to refine skill and mindset.
-Right Effort: Inspired by the spirit of dharma — learning with purpose, discipline, and intention.
+- 🔗 Create beginner-friendly tools for the infosec and dev communities
+- 🤝 Collaborate on red team frameworks, web apps, and automation tools
+- 🎨 Design intuitive, beautiful, and secure user experiences
+- 🧘 Explore the overlap of **tech + art + discipline** through music, meditation, and UI/UX
+- 🧭 Current Goals:
+  - Build real-world recon + frontend dashboards (Python/Next.js)
+  - Complete networking certifications
+  - Land a junior Penetration Tester or full-stack dev role
 
-Always learning. Always building. Always improving — with focus, discipline, and right intent. 🌱🚀
+---
+
+## 🧠 My Approach
+
+- ✨ **Curiosity-Driven**: I follow the questions that spark excitement
+- 🛠️ **Challenge-Seeking**: I see every bug and failure as a lesson
+- ⏱️ **Consistency First**: Daily practice > occasional inspiration
+- ☸️ **Dharma-Inspired**: Learning with purpose, discipline, and right intent
+
+---
+
+## 🔗 Featured Projects
+
+- [`heart-of-arjuna`](https://github.com/Jimi421/heart-of-arjuna) – Red team recon + fingerprinting CLI  
+- [`jimi421-art`](https://github.com/Jimi421/jimi421-art) – Serverless art gallery (Cloudflare Workers + R2)  
+- [`Dharma-Tools`](https://github.com/Jimi421/Dharma-Tools) – Red team toolkit with payloads and enumeration scripts  
+- [`Bhima`](https://github.com/Jimi421/Bhima) – Modular recon scanner for aggressive discovery  
+- [`ccna-packet-tracer-labs`](https://github.com/Jimi421/ccna-packet-tracer-labs) – Networking lab projects  
+- [`prisim-frontend`](https://github.com/Jimi421/prisim-frontend) – Responsive media gallery built with React + Tailwind
+
+---
+
+## 📨 Get in Touch
+
+📧 **Email**: [jimi421@gmail.com](mailto:jimi421@gmail.com) 
+              [b.e.bailey81@gmail.com](mailto:b.e.bailey81@gmail.com)   
+🌐 **Blog/Portfolio**: Coming soon  
+🎨 **Fun fact**: I’m just as passionate about **art and music** as I am about packet sniffing and clean front-end design.
+
+---
+
+## 🧘‍♂️ Wisdom I Live By
+
+> **"Be steadfast in yoga, O Arjuna.  
+> Perform your duty and abandon all attachment to success or failure.  
+> Such evenness of mind is called yoga."**  
+> — *Bhagavad Gita 2.48*
