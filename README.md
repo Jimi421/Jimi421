@@ -27,7 +27,7 @@
 
 - Grow The Path and vajra into polished, reusable tooling for the infosec community
 - Pursue a BS/MS in Computer Science
-- Build toward Offensive Security as a Service (OSaaS)
+- Full time employment as Pentester / Red Team Operative 
 
 ---
 
