@@ -1,64 +1,45 @@
 # 👋 Hi, I'm Braxton Bailey (Jimi421)
 
-🎯 I'm passionate about **cybersecurity**, **penetration testing**, **ethical hacking**, and **web development**.  
-🔍 I love exploring how systems break — and how they can be made stronger (and more beautiful).
+🎯 Offensive security, penetration testing, and web development — I like finding how systems break, then building the tools and interfaces that make them stronger.
+
+**OSCP+** · Security+ · Network+ · eJPT
 
 ---
 
-## 🛠️ What I'm Working On
+## 🛠️ What I'm Building
 
-- 🧠 Leveling up in **TCP/IP networking**, **Python scripting**, and **security tool development**
-- 🛡️ Hands-on learning via **CTF challenges**, **labs**, and personal **red team projects**
-- 💻 Building full-stack projects with **Next.js**, **Tailwind CSS**, and modern frameworks
-- 🧰 Creating a growing collection of open-source **infosec** and **frontend** tools
-
----
-
-## 💡 Interests & Goals
-
-- 🔗 Create beginner-friendly tools for the infosec and dev communities
-- 🤝 Collaborate on red team frameworks, web apps, and automation tools
-- 🎨 Design intuitive, beautiful, and secure user experiences
-- 🧘 Explore the overlap of **tech + art + discipline** through music, meditation, and UI/UX
-- 🧭 Current Goals:
-  - Build real-world recon + frontend dashboards (Python/Next.js)
-  - Complete networking certifications
-  - Land a junior Penetration Tester or full-stack dev role
+- 🗺️ **[The Path](https://path.jimi421.com)** — a React/Vite pentest methodology tool: a 330+ node decision tree covering web attacks, SQLi, shells, Linux/Windows privesc, AD, and pivoting, mapped to MITRE ATT&CK and the OWASP WSTG. Includes a phase-based command calculator, keyboard nav, and Obsidian markdown export.
+- ⚡ **[vajra](https://github.com/Jimi421/vajra)** — my offensive-security toolkit: ADScoutPS (read-only PowerShell AD enumeration), webshell_forge (stack-aware webshell generator), a reverse-shell generator, `fileserver.py` (a zero-dependency, stdlib-only HTTP file server for quick transfers on target networks), and parsers for mimikatz, NTDS, secretsdump, BloodHound, and PEAS output. Mostly stdlib-only Python, live-validated against OSCP-style labs.
+- 📜 **[Śruti](https://shruti.jimi421.com)** — a scholarly essay series tracing Vedic archetypes through Indo-European myth and literature. A different kind of build, and one I'm writing as an inheritance for my daughters.
 
 ---
 
-## 🧠 My Approach
+## 🧠 Approach
 
-- ✨ **Curiosity-Driven**: I follow the questions that spark excitement
-- 🛠️ **Challenge-Seeking**: I see every bug and failure as a lesson
-- ⏱️ **Consistency First**: Daily practice > occasional inspiration
-- ☸️ **Dharma-Inspired**: Learning with purpose, discipline, and right intent
+- ✨ **Curiosity-driven** — I follow the questions that spark excitement
+- 🛠️ **Challenge-seeking** — every bug and failure is a lesson
+- ⏱️ **Consistency first** — daily practice over occasional inspiration
+- ☸️ **Dharma-inspired** — learning with purpose, discipline, and right intent
 
 ---
 
-## 🔗 Featured Projects
+## 🎯 Current Goals
 
-- [`heart-of-arjuna`](https://github.com/Jimi421/heart-of-arjuna) – Red team recon + fingerprinting CLI  
-- [`jimi421-art`](https://github.com/Jimi421/jimi421-art) – Serverless art gallery (Cloudflare Workers + R2)  
-- [`Dharma-Tools`](https://github.com/Jimi421/Dharma-Tools) – Red team toolkit with payloads and enumeration scripts  
-- [`Bhima`](https://github.com/Jimi421/Bhima) – Modular recon scanner for aggressive discovery  
-- [`ccna-packet-tracer-labs`](https://github.com/Jimi421/ccna-packet-tracer-labs) – Networking lab projects  
-- [`prisim-frontend`](https://github.com/Jimi421/prisim-frontend) – Responsive media gallery built with React + Tailwind
+- Grow The Path and vajra into polished, reusable tooling for the infosec community
+- Pursue a BS/MS in Computer Science
+- Build toward Offensive Security as a Service (OSaaS)
 
 ---
 
 ## 📨 Get in Touch
 
-📧 **Email**: [jimi421@gmail.com](mailto:jimi421@gmail.com) 
-              [b.e.bailey81@gmail.com](mailto:b.e.bailey81@gmail.com)   
-🌐 **Blog/Portfolio**: Coming soon  
-🎨 **Fun fact**: I’m just as passionate about **art and music** as I am about packet sniffing and clean front-end design.
+📧 [jimi421@gmail.com](mailto:jimi421@gmail.com)
+🌐 Blog/Portfolio: coming soon
+🎨 Fun fact: I'm as into art and music as I am into packet captures and clean front-end design.
 
 ---
 
-## 🧘‍♂️ Wisdom I Live By
-
-> **"Be steadfast in yoga, O Arjuna.  
-> Perform your duty and abandon all attachment to success or failure.  
-> Such evenness of mind is called yoga."**  
+> **"Be steadfast in yoga, O Arjuna.
+> Perform your duty and abandon all attachment to success or failure.
+> Such evenness of mind is called yoga."**
 > — *Bhagavad Gita 2.48*
