@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Braxton Bailey (Jimi421)
+# Hi, I'm Braxton Bailey (Jimi421) #
 
 🎯 Offensive security, penetration testing, and web development — I like finding how systems break, then building the tools and interfaces that make them stronger.
 
