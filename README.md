@@ -9,7 +9,7 @@
 ## 🛠️ What I'm Building
 
 - 🗺️ **[The Path](https://path.jimi421.com)** — a React/Vite pentest methodology tool: a 330+ node decision tree covering web attacks, SQLi, shells, Linux/Windows privesc, AD, and pivoting, mapped to MITRE ATT&CK and the OWASP WSTG. Includes a phase-based command calculator, keyboard nav, and Obsidian markdown export.
-- ⚡ **[vajra](https://github.com/Jimi421/vajra)** — my offensive-security toolkit: ADScoutPS (read-only PowerShell AD enumeration), webshell_forge (stack-aware webshell generator), a reverse-shell generator, `fileserver.py` (a zero-dependency, stdlib-only HTTP file server for quick transfers on target networks), and parsers for mimikatz, NTDS, secretsdump, BloodHound, and PEAS output. Mostly stdlib-only Python, live-validated against OSCP-style labs.
+- ⚡ **[vajra](https://github.com/Jimi421/vajra)** — my offensive-security toolkit: ADScoutPS (read-only PowerShell AD enumeration), ad_hostmap (bash: scans a lab subnet, flags the likely DC via Kerberos, resolves hostnames over SMB into `/etc/hosts`, with VPN auto-detect and a clean `--restore`), webshell_forge (stack-aware webshell generator), a reverse-shell generator, `fileserver.py` (a zero-dependency, stdlib-only HTTP file server for quick transfers on target networks), and parsers for mimikatz, NTDS, secretsdump, BloodHound, and PEAS output. Mostly stdlib-only Python, live-validated against OSCP-style labs.
 - 📜 **[Śruti](https://shruti.jimi421.com)** — a scholarly essay series tracing Vedic archetypes through Indo-European myth and literature. A different kind of build, and one I'm writing as an inheritance for my daughters.
 
 ---
